@@ -1,6 +1,3 @@
-# Readme
-
-## My Contribution Graph
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
@@ -9,7 +6,7 @@
 </picture>
 
 
-
+# Readme
 ###
 
 # Hello World, I'm Murilo, be very welcome
