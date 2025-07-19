@@ -10,8 +10,6 @@
   <img alt="gráfico de contribuição do pacman" src="https://raw.githubusercontent.com/murilosilvaof/murilosilvaof/main/dist/pacman-contribution-graph.svg">
 </picture>
 
-_Gerado com [ abozanona/pacman-contribution-graph ](https://abozanona.github.io/pacman-contribution-graph/)_
-
 ---
 
 <table>
