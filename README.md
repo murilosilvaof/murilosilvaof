@@ -5,9 +5,9 @@
 ### Jogo de Contribuição Pac-Man
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murilosilvaof/murilosilvaof/dist/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murilosilvaof/murilosilvaof/dist/pacman-contribution-graph.svg">
-  <img alt="gráfico de contribuição do pacman" src="https://raw.githubusercontent.com/murilosilvaof/murilosilvaof/dist/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murilosilvaof/murilosilvaof/main/dist/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murilosilvaof/murilosilvaof/main/dist/pacman-contribution-graph.svg">
+  <img alt="gráfico de contribuição do pacman" src="https://raw.githubusercontent.com/murilosilvaof/murilosilvaof/main/dist/pacman-contribution-graph.svg">
 </picture>
 
 _Gerado com [ abozanona/pacman-contribution-graph ](https://abozanona.github.io/pacman-contribution-graph/)_
