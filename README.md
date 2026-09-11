@@ -1,31 +1,31 @@
 <h1 align="left">Murilo Francisco da Silva</h1>
 
 **Desenvolvedor Full Stack e Analista de TI**  
-Natal, RN | Engenharia da Computacao - UFRN
+Natal, RN | Engenharia da Computação - UFRN
 
-Crio sistemas web, automacoes e produtos digitais com foco em resolver problemas reais: do levantamento da demanda ao deploy, passando por interface, backend, banco de dados, integracoes e suporte em producao.
+Crio sistemas web, automações e produtos digitais com foco em resolver problemas reais: do levantamento da demanda ao deploy, passando por interface, backend, banco de dados, integrações e suporte em produção.
 
-[Portfolio](https://murilosilvaof.github.io/murilosilva.github.io/) · [LinkedIn](https://www.linkedin.com/in/murilosilvaof/) · [Instagram](https://instagram.com/murilosilvaof) · [Email](mailto:murilosilvafrancisco49@gmail.com)
+[Portfólio](https://murilosilvaof.github.io/murilosilva.github.io/) · [LinkedIn](https://www.linkedin.com/in/murilosilvaof/) · [Instagram](https://instagram.com/murilosilvaof) · [Email](mailto:murilosilvafrancisco49@gmail.com)
 
 ---
 
 ## Principais frentes
 
 - **Full stack:** React, TypeScript, JavaScript, Python, FastAPI, Flask, PHP e SQL.
-- **Produtos e sistemas internos:** chamados, reservas, dashboards, kanban, automacoes e fluxos operacionais.
-- **Integracoes:** Microsoft Graph, GLPI, Google Calendar API, WhatsApp e servicos externos.
+- **Produtos e sistemas internos:** chamados, reservas, dashboards, kanban, automações e fluxos operacionais.
+- **Integrações:** Microsoft Graph, GLPI, Google Calendar API, WhatsApp e serviços externos.
 - **Infra e entrega:** Docker, PostgreSQL, GitHub, GitHub Pages, Vercel e Render.
 
 ## Projetos em destaque
 
 | Projeto | O que entrega | Stack |
 | --- | --- | --- |
-| [Portfolio Profissional](https://github.com/murilosilvaof/murilosilva.github.io) | Vitrine dos meus principais cases, experiencias e contatos profissionais. | HTML, CSS, JavaScript |
-| [LogAp Challenge](https://github.com/murilosilvaof/logap-desafio-dev-junior) | Sistema full stack para gestao de clientes, produtos, pedidos e relatorios. | React, Flask, Python, JavaScript |
-| [Marcato](https://github.com/murilosilvaof/sistema-reservas-emufrn) | Sistema de reservas institucional com integracao ao Google Calendar. | PHP, OAuth 2.0, Google API, PHPMailer |
-| [SafeStop](https://github.com/murilosilvaof/SafeStop) | MVP mobile para registro de alertas de seguranca em paradas da UFRN. | React Native, Expo, JavaScript |
+| [Portfólio Profissional](https://github.com/murilosilvaof/murilosilva.github.io) | Vitrine dos meus principais cases, experiências e contatos profissionais. | HTML, CSS, JavaScript |
+| [LogAp Challenge](https://github.com/murilosilvaof/logap-desafio-dev-junior) | Sistema full stack para gestão de clientes, produtos, pedidos e relatórios. | React, Flask, Python, JavaScript |
+| [Marcato](https://github.com/murilosilvaof/sistema-reservas-emufrn) | Sistema de reservas institucional com integração ao Google Calendar. | PHP, OAuth 2.0, Google API, PHPMailer |
+| [SafeStop](https://github.com/murilosilvaof/SafeStop) | MVP mobile para registro de alertas de segurança em paradas da UFRN. | React Native, Expo, JavaScript |
 | [MyBarbershop](https://github.com/murilosilvaof/MyBarbershop) | Site comercial para barbearia com fluxo de agendamento online. | HTML, Tailwind CSS, JavaScript |
-| [Simulacao de Agentes](https://github.com/murilosilvaof/simulacao-agentes-limpeza) | Estudo de agentes racionais e comportamento emergente. | NetLogo, C++, CMake |
+| [Simulação de Agentes](https://github.com/murilosilvaof/simulacao-agentes-limpeza) | Estudo de agentes racionais e comportamento emergente. | NetLogo, C++, CMake |
 
 ## Stack principal
 
@@ -38,13 +38,13 @@ Crio sistemas web, automacoes e produtos digitais com foco em resolver problemas
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-1f2937?style=flat&logo=docker)
 
-## Em evolucao
+## Em evolução
 
-Atualmente estou fortalecendo meu repertorio em arquitetura de sistemas, produtos SaaS internos, integracoes corporativas, automacoes e experiencia de usuario para ferramentas operacionais.
+Atualmente estou fortalecendo meu repertório em arquitetura de sistemas, produtos SaaS internos, integrações corporativas, automações e experiência de usuário para ferramentas operacionais.
 
 ---
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=murilosilvaof&show_icons=true&theme=transparent&hide_border=true" alt="Estatisticas do GitHub de Murilo Silva" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=murilosilvaof&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub de Murilo Silva" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilosilvaof&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Linguagens mais usadas por Murilo Silva" />
 </p>
