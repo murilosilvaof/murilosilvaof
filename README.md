@@ -7,6 +7,14 @@ Crio sistemas web, automações e produtos digitais com foco em resolver problem
 
 [Portfólio](https://murilosilvaof.github.io/murilosilva.github.io/) · [LinkedIn](https://www.linkedin.com/in/murilosilvaof/) · [Instagram](https://instagram.com/murilosilvaof) · [Email](mailto:murilosilvafrancisco49@gmail.com)
 
+## Jogo de Contribuição Pac-Man
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murilosilvaof/murilosilvaof/main/dist/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murilosilvaof/murilosilvaof/main/dist/pacman-contribution-graph.svg">
+  <img alt="Gráfico de contribuição em formato de Pac-Man" src="https://raw.githubusercontent.com/murilosilvaof/murilosilvaof/main/dist/pacman-contribution-graph.svg">
+</picture>
+
 ---
 
 ## Principais frentes
