@@ -21,30 +21,27 @@ Crio sistemas web, automações e produtos digitais com foco em resolver problem
 
 - **Full stack:** React, TypeScript, JavaScript, Python, FastAPI, Flask, PHP e SQL.
 - **Produtos e sistemas internos:** chamados, reservas, dashboards, kanban, automações e fluxos operacionais.
-- **Integrações:** Microsoft Graph, GLPI, Google Calendar API, WhatsApp e serviços externos.
+- **Integrações:** Microsoft Graph, GLPI, Google Calendar API, WhatsApp, Chatwoot e serviços externos.
 - **Infra e entrega:** Docker, PostgreSQL, GitHub, GitHub Pages, Vercel e Render.
 
 ## Projetos em destaque
 
-| Projeto | O que entrega | Stack |
-| --- | --- | --- |
-| [Portfólio Profissional](https://github.com/murilosilvaof/murilosilva.github.io) | Vitrine dos meus principais cases, experiências e contatos profissionais. | HTML, CSS, JavaScript |
-| [LogAp Challenge](https://github.com/murilosilvaof/logap-desafio-dev-junior) | Sistema full stack para gestão de clientes, produtos, pedidos e relatórios. | React, Flask, Python, JavaScript |
-| [Marcato](https://github.com/murilosilvaof/sistema-reservas-emufrn) | Sistema de reservas institucional com integração ao Google Calendar. | PHP, OAuth 2.0, Google API, PHPMailer |
-| [SafeStop](https://github.com/murilosilvaof/SafeStop) | MVP mobile para registro de alertas de segurança em paradas da UFRN. | React Native, Expo, JavaScript |
-| [MyBarbershop](https://github.com/murilosilvaof/MyBarbershop) | Site comercial para barbearia com fluxo de agendamento online. | HTML, Tailwind CSS, JavaScript |
-| [Simulação de Agentes](https://github.com/murilosilvaof/simulacao-agentes-limpeza) | Estudo de agentes racionais e comportamento emergente. | NetLogo, C++, CMake |
+Todos os projetos abaixo aparecem no meu portfólio principal.
+
+| Projeto | O que entrega | Stack | Acesso |
+| --- | --- | --- | --- |
+| MDR Advocacia | Site institucional com foco em autoridade digital, clareza de mensagem e apresentação profissional. | PHP, JavaScript, Docker, CSS3 | [Abrir projeto](https://mdradvocacia.com) |
+| ISM Cursos | Plataforma de ensino organizada para conteúdo, jornada do aluno, ofertas e monetização. | PHP, JavaScript, WordPress, Elementor, LMS, WooCommerce | [Abrir plataforma](https://ismcursos.com.br/) |
+| NIC | Sistema interno para operação jurídica, centralização de informações e integração com comunicação via Chatwoot. | React, Node.js, Docker, Fluxos internos | [Abrir sistema](https://nic.mdradvocacia.com) |
+| Orbit | Central de serviços e operações com chamados, kanban, aprovações, base de conhecimento, pontuação e relatórios internos. | React, TypeScript, FastAPI, PostgreSQL, Docker, Microsoft Graph, GLPI | [Abrir Orbit](https://orbit.dunatecnologia.com/) |
+| Barber & Co. | Site comercial para barbearia com visual premium, serviços e fluxo completo de agendamento online. | HTML, Tailwind CSS, JavaScript, WhatsApp, Pix | [Abrir site](https://mybarbershop-six.vercel.app) |
+| Marcato | Sistema de reservas acadêmicas com integração ao Google Calendar e comunicações automáticas. | PHP, OAuth 2.0, Google API, PHPMailer | [Abrir sistema](https://sistema-reservas-emufrn.vercel.app/) |
+| SafeStop | MVP mobile para registrar alertas de insegurança nas paradas do circular da UFRN. | React Native, Expo, JavaScript, UX mobile | [Abrir MVP](https://safe-stop-one.vercel.app/) |
+| AprendAI | Tutor educacional com IA pensado para funcionar offline e reduzir barreiras de conectividade. | React, PWA, IA offline, Mobile first | [Abrir produto](https://aprendai.com.br) |
 
 ## Stack principal
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Python-1f2937?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-1f2937?style=flat&logo=fastapi)
-![PHP](https://img.shields.io/badge/PHP-1f2937?style=flat&logo=php)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-1f2937?style=flat&logo=docker)
+`React` · `TypeScript` · `JavaScript` · `Python` · `FastAPI` · `Flask` · `PHP` · `Node.js` · `PostgreSQL` · `Docker` · `GitHub Pages` · `Vercel` · `Render`
 
 ## Em evolução
 
@@ -52,7 +49,4 @@ Atualmente estou fortalecendo meu repertório em arquitetura de sistemas, produt
 
 ---
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=murilosilvaof&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub de Murilo Silva" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilosilvaof&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Linguagens mais usadas por Murilo Silva" />
-</p>
+Para ver imagens, detalhes e fluxos de cada projeto, acesse meu [portfólio completo](https://murilosilvaof.github.io/murilosilva.github.io/).
